@@ -25,7 +25,7 @@ DESTRUCTIBLE WALLS : Grey Cubes
 NON-DESTRUCTIBLE WALLS : White Cubes
 
 PICKUPS : 
-Blue: speed up
-yellow: longer bomb blast
-red: remote controlled bomb
+Blue: speed up ||
+yellow: longer bomb blast ||
+red: remote controlled bomb ||
 black: +1 bomb
