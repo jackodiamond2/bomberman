@@ -29,3 +29,5 @@ Blue: speed up ||
 yellow: longer bomb blast ||
 red: remote controlled bomb ||
 black: +1 bomb
+
+Bomberman3.zip is final version. Download | upzip | open in unity | play | enjoy!
